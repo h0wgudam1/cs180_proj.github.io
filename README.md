@@ -1,1 +1,1 @@
-# cs180_proj01.github.io
+# cs180_proj.github.io
